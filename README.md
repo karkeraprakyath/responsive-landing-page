@@ -6,7 +6,7 @@ A clean and fully responsive Task App Landing Page built with HTML, SCSS, and a 
 👉 Live Demo: https://karkeraprakyath.github.io/responsive-landing-page/
 
 ⚡ Features
-✅ Responsive Design — Optimized for mobile, tablet, and desktop
+✅ Responsive Design — Optimized for mobile, tablet, and desktop                                                          
 ✅ Modern SCSS Architecture — Cleaner, maintainable, and organized styles
 ✅ Interactive Mobile Menu — Pure JavaScript toggle
 ✅ Modern Layout — Hero section, benefits, testimonial cards, and a contact form
