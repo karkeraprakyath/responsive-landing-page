@@ -19,12 +19,13 @@ A clean and fully responsive Task App Landing Page built with HTML, SCSS, and a 
 🗂️ Project Structure
 responsive-landing-page/
 ├─ css/
-│  ├─ main.css       # Compiled SCSS
-│  └─ main.css.map   # Source map for SCSS
-│  └─ main.scss      # SCSS source
+│  ├─ main.css           # Compiled SCSS
+│  └─ main.css.map       # Source map for SCSS
 ├─ images/
 ├─ index.html
+├─ main.scss              # SCSS source
 ├─ README.md
+
 
 
 🚀 Getting Started
